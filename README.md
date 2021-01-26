@@ -10,4 +10,4 @@
 
 ## Technologies :
 
-### Html , css , JQuery
+### Html , css , JavaScript
